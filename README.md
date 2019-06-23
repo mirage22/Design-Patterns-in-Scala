@@ -2,7 +2,7 @@
 following repository contains set of examples how to 
 implement various types of design patterns in Scala
 
-####requirements:
+#### requirements:
 SBT against scala 2.13.0+
 
 #### important:
